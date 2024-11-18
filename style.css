@@ -1,0 +1,16 @@
+body{
+    background-color:wheat;
+    padding-top: 100px;
+}
+form{
+    border: 1px solid black;
+    width: 40%;
+    padding: 25px;
+    background-color: aquamarine;
+}
+label{
+    float: left;
+}
+#inp{
+    float: right;
+}
